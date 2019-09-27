@@ -1,0 +1,10 @@
+[package]
+name = "tm"
+version = "0.1.0"
+authors = ["Jezza <jeremy.barrow@vhbw.de>"]
+edition = "2018"
+
+[dependencies]
+dirs = "2.0.2"
+structopt = "0.3.2"
+chrono = "0.4"
